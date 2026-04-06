@@ -10,7 +10,7 @@
 // 7.print----> rev
 // 8.end
 //******************************************************************************
-package JAVAPRACTICE;
+
 import java.util.Scanner;
 public class Day_1_Reverse
 {
