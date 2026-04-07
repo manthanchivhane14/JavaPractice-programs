@@ -11,7 +11,7 @@
 // 9.else---->Not Palindrome Number
 // 10.end
 //*******************************************************************************/
-public class palindrome {
+public class Day2_palindrome {
 	public static void main(String[] args) {
 		int num=121;
 		int rev=0;
