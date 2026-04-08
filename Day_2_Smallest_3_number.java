@@ -8,7 +8,7 @@
 // 6. End
 
 //*******************************************************************************/
-public class Day_2_largest_3_number 
+public class Day_2_Smallest_3_number 
 {
 
 	public static void main(String[] args) {
